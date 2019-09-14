@@ -1,0 +1,7 @@
+print('Merhaba yabancı. Medyum Mehmetin yerine hoşgeldin.')
+print('Zaten biliyorum ama adın nedir?')
+ismim = input()
+print('Doğrulamak için sormuştum.' + ismim)
+print('Kaç yıl ömrün kaldığını bilmek ister misin? O zaman yaşını öğrenmeliyim. Kaç yaşındasın?')
+yaşım = input()
+print('Birkaç yıl içinde ölmüş olacaksın...')
