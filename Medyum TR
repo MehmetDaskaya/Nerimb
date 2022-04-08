@@ -5,3 +5,4 @@ print('Doğrulamak için sormuştum.' + ismim)
 print('Kaç yıl ömrün kaldığını bilmek ister misin? O zaman yaşını öğrenmeliyim. Kaç yaşındasın?')
 yaşım = input()
 print('Birkaç yıl içinde ölmüş olacaksın...')
+print("ඞ");
